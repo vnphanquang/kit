@@ -1,5 +1,14 @@
 # @sveltejs/adapter-cloudflare
 
+## 7.0.4
+### Patch Changes
+
+
+- fix: address build failure when using `paths.base` (#13769) ([#13846](https://github.com/sveltejs/kit/pull/13846))
+
+- Updated dependencies [[`c6cd8c3a5ed96d423a65af5cb5468e3e963cfb54`](https://github.com/sveltejs/kit/commit/c6cd8c3a5ed96d423a65af5cb5468e3e963cfb54), [`1a406752aafc2b80d9ccb49f15ebc10301c84480`](https://github.com/sveltejs/kit/commit/1a406752aafc2b80d9ccb49f15ebc10301c84480)]:
+  - @sveltejs/kit@2.21.3
+
 ## 7.0.3
 ### Patch Changes
 

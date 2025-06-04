@@ -1,5 +1,14 @@
 # @sveltejs/kit
 
+## 2.21.3
+### Patch Changes
+
+
+- fix: correctly run `deserialize` on the server ([#13686](https://github.com/sveltejs/kit/pull/13686))
+
+
+- fix: handle non-semver-style dependency versions ([#13850](https://github.com/sveltejs/kit/pull/13850))
+
 ## 2.21.2
 ### Patch Changes
 
